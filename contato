@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta charset="UTF-8">
-		<title>Contato - Barbearia Do Jâo Alura</title>
+		<title>Contato - Barbearia Do Jão Alura</title>
 
 		<link rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="style.css">
@@ -10,7 +10,7 @@
 	<body>
 		<header>
 			<div class="caixa">
-				<h1><img src="logo.png" alt="Logo da Barbearia Do Jâo Alura"></h1>
+				<h1><img src="logo.png" alt="Logo da Barbearia Do Jão Alura"></h1>
 
 				<nav>
 					<ul>
